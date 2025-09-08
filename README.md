@@ -1,1 +1,0 @@
-# Movie_Poster_Classification
